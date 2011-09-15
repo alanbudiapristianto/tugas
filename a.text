@@ -1,0 +1,9 @@
+ <html>
+<frameset rows=20%,16%,74%" bordercolor="orange">
+<frame src="pi.html" scrolling="no" noresize="noresize">
+<frame src="test.html" scrolling="no" noresize="noresize">
+<frameset cols="69%,69%">
+<frame src="alan input table.html" scrolling="no" noresize="noresize">
+<frame src="biodata_photo alan.html">
+</frameset>
+</html>
